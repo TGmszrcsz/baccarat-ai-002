@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：数据范围
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 001 篇 - 百家乐Ai预测分析工具：从房间身份开始建立可靠样本](https://github.com/TGmszrcsz/baccarat-ai-001) ｜ [下一篇：第 003 篇 - 百家乐Ai预测分析工具：划清牌靴边界再解释历史走势](https://github.com/TGmszrcsz/baccarat-ai-003)
+
+<!-- article-chain:end -->
+
 刷新后列表顺序改变，旧记录看起来像新增内容。本篇围绕“局号为何比页面顺序更重要”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
